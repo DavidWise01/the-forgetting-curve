@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1671
+slug  : the-forgetting-curve
+seal  : b4fb563e46c1de146abbcfc4ae9f603d68fcb0d0d437717a38701e365a625c52
+prev  : 3478c297bdcde1648e7bd519cc4fccaf0ef2c7d20f39948cb21f83b7620e81ec
+link  : afb1e70b76b7f8766598d33bf17a696ec97bf89ad334229433c2c322a1ac826c
+head  : 74e4b13ad324a9518bcda28090a9f79949222cebdfbf4e3821af41a8b00a88bf
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
